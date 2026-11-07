@@ -1,0 +1,95 @@
+BODY {
+       MARGIN: 0;
+	   PADDING: 0;
+       BACKGROUND-COLOR: e5e5e5;
+      }
+#Menu {
+        FLOAT: Left;
+		MARGIN: 180px;
+        BORDER-RADIUS: 5px;
+        WIDTH: 1000px;
+        POSITION: Absolute;
+        MARGIN-LEFT: 270;
+        MARGIN-TOP: 128;         
+      }
+#Menu UL {
+		   FONT: 16px Arial, Tahoma, Verdana;
+		   LIST-STYLE: None;
+		   MARGIN: 0;
+           PADDING: 0;
+          }
+#Menu UL LI {
+              FLOAT: Left;
+              POSITION: Relative;
+			  DISPLAY: Block;
+             }          
+#Menu UL LI A {
+                COLOR: White;
+				BACKGROUND-COLOR: 089f58;
+   				TEXT-DECORATION: None;
+                MARGIN: 0 0px;
+				PADDING: 20px;
+                DISPLAY: Block;
+              }
+#Menu LI UL {
+              DISPLAY: None;
+			} 
+#Menu UL LI A:Hover {
+	                  COLOR: Black;
+	                  BACKGROUND-COLOR: White;
+                      BORDER-RADIUS: 5px;
+					  DISPLAY: Block;
+                    }     
+#Menu LI:Hover UL {
+                    DISPLAY: Block;
+					POSITION: Relative;
+                  }     
+#Menu LI:Hover LI {
+                    FLOAT: None;
+					FONT-SIZE: 14px;
+				  }
+#Menu LI:Hover A {
+                   BACKGROUND-COLOR: 38902a;
+				   COLOR: White;
+				 }
+#Bloco {
+         MARGIN-TOP: 190px; 
+         MARGIN-RIGHT: 150px;
+         MARGIN-BOTTOM: 70px;
+         MARGIN-LEFT: 150px;
+         BACKGROUND-COLOR: White;
+         BORDER-RADIUS: 35px;
+         BOX-SHADOW: 3px 3px 0 Black;
+       }
+P {
+    MARGIN-TOP: 5px;
+    MARGIN-RIGHT: 0px;
+    MARGIN-BOTTOM: 7px;
+    MARGIN-LEFT: 25px;
+    TEXT-ALIGN: Justify;
+    FONT-FAMILY: Arial, Verdana, Times New Roman;
+  }
+IMG {
+      MARGIN-TOP: 0px;
+      MARGIN-RIGHT: 0px;
+      MARGIN-BOTTOM: -240px;
+      MARGIN-LEFT: -8px;
+    }
+H1 {
+     FONT-FAMILY: Arial, Verdana, Times New Roman;
+   }
+H2 {
+     MARGIN-TOP: 25px;
+     MARGIN-RIGHT: 0px;
+     MARGIN-BOTTOM: 25px;
+     MARGIN-LEFT: 25px;
+     TEXT-ALIGN: Justify;
+     FONT-FAMILY: Arial, Verdana, Times New Roman;
+   }
+EMBED {
+        BOX-SHADOW: 3px 3px 0 Black;
+      }
+A {
+    TEXT-DECORATION: None;
+    COLOR: 089f58;
+  }

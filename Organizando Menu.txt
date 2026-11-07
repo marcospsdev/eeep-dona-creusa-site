@@ -1,0 +1,18 @@
+*HOME
+*HISTÓRIA
+*CURSOS: Administração, Desing de Interiores, Informática, Logística, Secretariado.
+*DISCIPLINAS:
+#BASE COMUM -> Português, Matemática, Física, Biologia, Química, Geografia, História, Filosofia, Sociologia, Inglês, Espanhol, Artes, Educação Física.
+#CURSOS TÉCNICOS
+ADMINISTRAÇÃO -> Introdução ao Curso Técnico e Ética Profissional, Contabilidade Aplicada, Fundamentos de Marketing, Administração de Marketing, Direito Empresarial, Logística de Suprimentos, Adminstração do Terceiro Setor, Mercado de Capitais, Administração de Varejo e Serviços. 
+DESING DE INTERIORES -> Desenho Geométrico, Desenho a Mão Livre, História da Arte I, História da Arte II, História da Arte III, Desenho em Perspectiva, Técnicas de Leitura e Interpretação de Plantas, Materiais para Interiores, Conforto Ambiental, Desenho Assistido por Computador, Métodos de Projetos para Interiores.
+INFORMÁTICA -> Lógica de Programação, Arquitetura e Manutenção de Computadores, HTML/CSS, Sistemas Operacionais, POO/JAVA, JavaScript/PHP, Banco de Dados, PHP/MySQL, Redes de Computadores, Laboratório de Software, Laboratório de Web.
+LOGÍSTICA -> Economia e Mercados, Embalagens e Armazenamento, Gestão da Qualidade e Processos, Contabilidade Aplicada, Gerenciamento de Estoques, Gestão de Transporte e Movimentação, Gestão de Tecnologia em Logística, Gestão de Compras e Estoques, Gerenciamento da Cadeia de Suprimentos, Gestão de Pessoas.
+SECRETARIADO -> Matemática Comercial, Psicologia Comportamental, Qualidade em Prestação de Serviços, Gestão e Organizações, Introdução aos Processos Administrativos, Técnicas de Redação, Técnicas, e Rotinas Secretariais I, Técnicas de Rotinas Secretariais II, Documentação e Arquivismo, Economia e Mercados, Noões de Organização de Eventos, Qualidade e Empreendedorismo, Informática Aplicada ao Secretariado, Direiro e Legislação, Desenvolvimento de Projeto.
+*PROJETOS
+*GALERIA
+FOTOS
+VÍDEOS
+*DOWNLOAD
+
+
