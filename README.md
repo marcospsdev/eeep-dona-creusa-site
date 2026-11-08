@@ -1,6 +1,6 @@
 # Site da EEEP Dona Creusa do Carmo Rocha
 
-Meu primeiro site: cursos, disciplinas e download das apostilas da escola técnica.
+Site da escola técnica: cursos, disciplinas e download das apostilas.
 
 <p align="center">
   <img src="docs/preview.webp" alt="Página inicial do site" width="900">
